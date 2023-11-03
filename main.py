@@ -51,7 +51,7 @@ while True:
                 password = "".join(result)
                 print("A Strong Password suggestion: ", password)
 
-                # For Exiting a Infinite loop
+                # For Exiting an Infinite loop
                 break
 
             except Passkey as e:
